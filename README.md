@@ -1,5 +1,7 @@
 # Muhammad Shaheer · Civil Engineer Portfolio
 
+**Live:** https://shaheer-portfolio-sigma.vercel.app
+
 An interactive 3D portfolio. Visitors walk down a single-floor concrete corridor
 with exposed steel portal frames, framed engineering drawings and steel/rebar
 exhibits. Muhammad greets them at the reception counter, and four doors open
@@ -42,6 +44,5 @@ The projects, figures, experience entries, activities, email and phone are
 
 ## Deploying
 
-`dist/` is a static site. It works on Cloudflare Pages, Netlify or Vercel.
-`public/_redirects` and `public/_headers` are already set up for Cloudflare Pages
-and Netlify.
+The site is hosted on Vercel and connected to this repo: every push to `main`
+deploys automatically to https://shaheer-portfolio-sigma.vercel.app.
